@@ -1,0 +1,7 @@
+streamlit
+mediapipe
+opencv-python
+numpy
+pyttsx3
+requests
+twilio
